@@ -1,0 +1,1 @@
+## Gerador de jogos aleatórios das loterias caixa
