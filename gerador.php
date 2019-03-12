@@ -2,7 +2,7 @@
 
 //@author Jefferson Carvalho <jeffersoncarvalho60@outlook.com>
 
-$jogos = gerarJogos(0, 10); //Exemplo gerando 10 jogos da Lotomania
+$jogos = gerarJogos(0, 10); //Exemplo gerando 10 jogos da Lotofácil
 
 imprimirJogos($jogos);
 
